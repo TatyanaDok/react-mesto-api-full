@@ -1,0 +1,17 @@
+.header__wrapper-link {
+    display: flex;
+}
+
+@media screen and (max-width: 550px) {
+    .header__wrapper-link {
+        margin-right: 15px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header__wrapper-link {
+        margin-right: 30px;
+        margin-bottom: 28px;
+    }
+}

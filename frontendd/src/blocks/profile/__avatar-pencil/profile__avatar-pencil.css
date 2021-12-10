@@ -1,0 +1,13 @@
+.profile__avatar-pencil {
+    background: url(../../../images/editt.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    top: 47px;
+    left: 47px;
+    display: none;
+    z-index: 999;
+}

@@ -1,0 +1,10 @@
+.popup__image-reg-modal {
+    margin-top: 30px;
+    width: 120px;
+}
+
+@media screen and (max-width: 350px) {
+    .popup__image-reg-modal {
+        margin: 0;
+    }
+}

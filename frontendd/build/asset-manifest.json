@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a07ac10f.chunk.css",
+    "main.js": "/static/js/main.e4570f75.chunk.js",
+    "main.js.map": "/static/js/main.e4570f75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45c7c875.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45c7c875.js.map",
+    "static/js/2.28599354.chunk.js": "/static/js/2.28599354.chunk.js",
+    "static/js/2.28599354.chunk.js.map": "/static/js/2.28599354.chunk.js.map",
+    "static/js/3.5a9b53ee.chunk.js": "/static/js/3.5a9b53ee.chunk.js",
+    "static/js/3.5a9b53ee.chunk.js.map": "/static/js/3.5a9b53ee.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a07ac10f.chunk.css.map": "/static/css/main.a07ac10f.chunk.css.map",
+    "static/js/2.28599354.chunk.js.LICENSE.txt": "/static/js/2.28599354.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/like.0bc60938.svg",
+    "static/media/button-failed.df8eddf6.svg": "/static/media/button-failed.df8eddf6.svg",
+    "static/media/button-success.1b6082f8.svg": "/static/media/button-success.1b6082f8.svg",
+    "static/media/logo.03b78ada.svg": "/static/media/logo.03b78ada.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45c7c875.js",
+    "static/js/2.28599354.chunk.js",
+    "static/css/main.a07ac10f.chunk.css",
+    "static/js/main.e4570f75.chunk.js"
+  ]
+}

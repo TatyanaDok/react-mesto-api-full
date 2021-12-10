@@ -1,0 +1,5 @@
+.element__group {
+    margin: 25px 15px;
+    display: flex;
+    justify-content: space-between;
+}

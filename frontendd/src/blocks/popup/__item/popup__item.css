@@ -1,0 +1,25 @@
+.popup__item {
+    margin-top: 40px;
+    font-size: 14px;
+    line-height: 17px;
+    font-style: normal;
+    font-weight: normal;
+    width: 358px;
+    padding: 13px 0 13px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.popup__item:invalid:not(:placeholder-shown) {
+    border-bottom: 1px solid #FF0000;
+}
+
+@media screen and (max-width: 550px) {
+    .popup__item {
+        width: 238px;
+        height: 14px;
+    }
+}
