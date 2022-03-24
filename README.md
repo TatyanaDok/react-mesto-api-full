@@ -1,10 +1,10 @@
-# Проект Mesto. REST API для одностраничного приложения
+# project Location. REST API for a single-page application
 
-Репозиторий для приложения проекта Mesto, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями.
+Repository for the Location project application, which includes frontend and backend parts of the application with the following features: authorization and registration of users, operations with cards and users.
 
 
-Домен фронтенда - https://omicron.megatron.student.nomoredomains.rocks
+Frontend domain - https://omicron.megatron.student.nomoredomains.rocks
 
-Домен сервера - https://api.yanadok.students.nomoredomains.rocks
+Server domain - https://api.yanadok.students.nomoredomains.rocks
 
-Публичный IP-адрес сервера - 51.250.0.33
+Public IP address of the server - 51.250.0.33
